@@ -1,0 +1,7 @@
+{
+	"name": "AzureSqlDatabaseCustomer",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/050426fb-ab96-462c-9f03-7d115d877791/resourceGroups/awe_azuredatalake/providers/Microsoft.Sql/servers/aweserver3",
+		"groupId": "sqlServer"
+	}
+}

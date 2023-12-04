@@ -1,0 +1,21 @@
+{
+	"name": "GitHub_customers",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "GitHub_web_customer",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}

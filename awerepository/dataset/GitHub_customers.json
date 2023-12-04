@@ -9,7 +9,8 @@
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
-				"type": "HttpServerLocation"
+				"type": "HttpServerLocation",
+				"relativeUrl": "https://raw.githubusercontent.com/alitawe/awerepository/main/olist_customers_dataset.csv"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",

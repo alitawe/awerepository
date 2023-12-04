@@ -1,0 +1,9 @@
+{
+	"name": "awedatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2af3cfd-b148-4c25-a97c-afa357790bbb",
+		"tenantId": "d06e9bc8-efdd-44b7-b8d1-b2b8c13de5a6"
+	}
+}
